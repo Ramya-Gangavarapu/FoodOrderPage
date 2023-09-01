@@ -1,0 +1,34 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.Bag {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png);
+    width: 45vw;
+    height: 80vh;
+    background-size: cover;
+}
+
+.Bg {
+    background-color: #f6c56e;
+    padding: 40px 20px;
+    width: 45vw;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.Bg h1 {
+    font-family: 'Bree Serif';
+}
+
+.Bg p {
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.Bg button {
+    font-family: Roboto;
+    border-radius: 8px;
+    border-color: transparent;
+    font-size: 13px;
+    padding: 5px 25px;
+}
